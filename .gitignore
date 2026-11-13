@@ -1,0 +1,9 @@
+# Xcode (프로젝트 파일은 project.yml에서 XcodeGen으로 생성)
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+.build/
+.swiftpm/
+Package.resolved
+.DS_Store
